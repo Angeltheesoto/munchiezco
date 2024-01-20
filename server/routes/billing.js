@@ -14,27 +14,27 @@ const Product = require("../models/Product");
 var storeItems = {
   "65973e542916b94401cd546d": {
     // BURGER BLACK
-    price: "price_1OWicmKfpXJO34jQIpMFl4aQ",
+    price: "price_1OaleaKfpXJO34jQVj3VF5Ub",
   },
   "6597405f2916b94401cd546e": {
     // BURGER WHITE
-    price: "price_1OWidKKfpXJO34jQwmYQIC42",
+    price: "price_1OalfCKfpXJO34jQwKIMQTXP",
   },
   "659740b52916b94401cd546f": {
     // PIZZA BLACK
-    price: "price_1OWidsKfpXJO34jQg44vZLTg",
+    price: "price_1OalfkKfpXJO34jQNdhyvL4I",
   },
   "659740cf2916b94401cd5470": {
     // PIZZA WHITE
-    price: "price_1OWieRKfpXJO34jQhD8mZmM4",
+    price: "price_1OalgTKfpXJO34jQBEchidfl",
   },
   "659741162916b94401cd5471": {
     // TACO BLACK
-    price: "price_1OWievKfpXJO34jQ5VZOvqqm",
+    price: "price_1Oalh0KfpXJO34jQ0hNwLJ78",
   },
   "659741352916b94401cd5472": {
     // TACO WHITE
-    price: "price_1OWifOKfpXJO34jQ0eXGdpYe",
+    price: "price_1OalhNKfpXJO34jQLvT6CvXX",
   },
 };
 
