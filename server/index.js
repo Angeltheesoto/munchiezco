@@ -10,7 +10,7 @@ const allowedOrigins = [
   // "https://munchiezco-client.vercel.app",
   // "https://munchiezco-client.vercel.app/",
   "www.munchiezco.com/",
-  // "https://www.munchiezco.com/",
+  "https://www.munchiezco.com/",
 ];
 
 connectDB();
