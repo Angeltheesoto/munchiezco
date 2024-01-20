@@ -9,8 +9,8 @@ const allowedOrigins = [
   // "http://localhost:3000",
   // "https://munchiezco-client.vercel.app",
   // "https://munchiezco-client.vercel.app/",
-  // "www.munchiezco.com/",
-  "https://www.munchiezco.com/",
+  "www.munchiezco.com/",
+  // "https://www.munchiezco.com/",
 ];
 
 connectDB();
